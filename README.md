@@ -38,4 +38,18 @@ Con el GET nos muestra el id usado (nos muestra todo el path) mientras que con e
 
 Service me genera la "estructura" de una tabla, generando asi el ID dado, el titulo asociado, y el completed.
 
+## PARTE IV
 
+### Abra la aplicación en dos computadores diferentes. Si no dispone de uno, hágalo en dos navegadores diferentes (por ejemplo Chrome y Firefox; incluso se puede en un único navegador usando una ventana normal y una ventana de incógnito / privada). Haga cinco intentos en uno, y luego un intento en el otro. ¿Qué valor tiene cada uno?
+
+Al momento de ingresar los valores en uno de los buscadores y actualizar el otro, los datos ingresados en el primero aparecen en el segundo
+
+### Dado la anterior, ¿Cuál es la diferencia entre los backing-beans de sesión y los de aplicación?
+
+Los @SessionScoped viven tanto como se establece la sesion de http, estos se usan para especificar los datos de los usuarios, como su informacion de sesion o sus configuraciones como lo pueden ser el idioma
+
+los @ApplicationScoped viven tanto como la aplicacion se mantenga corriendo, estos mantienen la misma informacion para los diferentes usuarios 
+
+### Revise qué otros estilos se pueden agregar a los diferentes elementos
+
+para ello se reviso este link: https://www.infor.uva.es/~jvegas/cursos/web/cgi-bin/tutcgi/node11.html#:~:text=TYPE%20determina%20el%20tipo%20de,eco%20ser%C3%A1%20sustituido%20por%20aster%C3%ADscos.
