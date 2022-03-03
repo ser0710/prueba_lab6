@@ -7,8 +7,8 @@ import javax.faces.bean.SessionScoped;
 import java.util.ArrayList;
 
 @ManagedBean(name = "calculadoraBean")
-//@ApplicationScoped
-@SessionScoped
+@ApplicationScoped
+//@SessionScoped
 
 public class Calculadora {
 
