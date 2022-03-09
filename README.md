@@ -53,3 +53,6 @@ los @ApplicationScoped viven tanto como la aplicacion se mantenga corriendo, est
 ### Revise qué otros estilos se pueden agregar a los diferentes elementos
 
 para ello se reviso este link: https://www.infor.uva.es/~jvegas/cursos/web/cgi-bin/tutcgi/node11.html#:~:text=TYPE%20determina%20el%20tipo%20de,eco%20ser%C3%A1%20sustituido%20por%20aster%C3%ADscos.
+
+
+hola
